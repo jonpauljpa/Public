@@ -1,1 +1,1 @@
-This is where I post various fun little coding projects
+This is where I post fun little coding projects
